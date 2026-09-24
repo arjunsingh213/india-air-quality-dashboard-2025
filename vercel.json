@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/india-air-quality-dashboard-2025.html"
+    }
+  ]
+}
