@@ -1,0 +1,14 @@
+India Air Quality Dashboard — dataset attachment
+
+Dataset: india-cpcb-aqi, a public CPCB-derived dataset of station-level Indian air-quality observations.
+Provider: Vivek Matthew / Vonter
+Underlying authority: Central Pollution Control Board (CPCB), Government of India
+
+Project page and downloads:
+https://github.com/Vonter/india-cpcb-aqi
+https://github.com/Vonter/india-cpcb-aqi/releases
+
+Selected period: 2023, 2024, and 2025
+Expected fields: City, Timestamp or Date, AQI and/or PM2.5, PM10, NO2, SO2, CO, Ozone.
+
+Licence: Open Database License (ODbL) 1.0. Attribute CPCB and the india-cpcb-aqi project when sharing derived work.
